@@ -33,7 +33,7 @@ class _BottomBarState extends State<BottomBar> {
           onTap: (value) {
             onChange(value);
           },
-          elevation: 10,
+          elevation: 11,
           showSelectedLabels: false,
           showUnselectedLabels: false,
           selectedItemColor: Colors.blueGrey,
